@@ -12,6 +12,8 @@
 4. Added this README to document the lab
 
 ## Evidence
+![Repo Screenshot](evidence/Github Setup.png)
+![Local Folder Screenshot](evidence/Github Setup.png)
 - Screenshot of `HomeLabProjects` repo on GitHub
 - Screenshot of local folder structure in terminal
 
