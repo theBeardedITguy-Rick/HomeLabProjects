@@ -13,6 +13,7 @@
 
 ## Evidence
 ![Repo Screenshot](Week1/Week1Lab1_GitHubSetup/evidence/Github_Setup.png)
+![Local Folder Screenshot](Week1/Week1Lab1_GitHubSetup/evidence/local_folder_screenshot.png)
 - Screenshot of `HomeLabProjects` repo on GitHub
 - Screenshot of local folder structure in terminal
 
